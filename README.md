@@ -8,6 +8,7 @@ This is a to do list React App that allows users to create a to do list that upd
 - Tailwind CSS
 - Node.js
 - Lucide-React
+- JavaScript
 
 ### Features
 - CRUD operations for tasks
