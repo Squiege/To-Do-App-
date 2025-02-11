@@ -6,7 +6,7 @@ This is a to do list React App that allows users to create a to do list that upd
 - React
 - TypeScript
 - Tailwind CSS
-- Node.js
+- Next.js
 - Lucide-React
 - JavaScript
 
